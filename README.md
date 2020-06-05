@@ -27,6 +27,7 @@ I used a Intel® Core™ i7-2600 CPU @ 3.40GHz × 8, 4 physical cores and 4 logi
 - 18000 iterations.
 
 | # | Sequential | Pararel |
+| --- | --- | --- | 
 | 1 | 0m46.255s | 0m2.308s |
 | 2 | 0m45.585s | 0m2.121s |
 | 3 | 0m44.916s | 0m2.134s |
